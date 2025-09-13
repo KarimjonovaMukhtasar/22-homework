@@ -21,3 +21,4 @@ node main.js ascii "ABCSS"
 node main.js uppercase "abc"
 node main.js lowercase "ABC"
 */
+import "./index.js"

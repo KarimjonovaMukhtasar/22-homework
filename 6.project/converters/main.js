@@ -17,3 +17,4 @@ node main.js Array "[['name', 'val']]"
 node main.js String "true"
 node main.js Boolean "1"
 */
+import "./index.js"
